@@ -8,5 +8,4 @@ These are located in the docs directory.
 
 **Documentation:** Open exercises/docs/TOC.html for a walkthrough of the exercises.  Let me know how they look...I can update them as needed!
 
-I wil also upload a raspbian image from a Pi that was used for the lesson.  You can copy this disc image and use it for your own Pi, or even
-try it out on your personal computer if you have vmware or something similar.  It has the python libraries and vi settings that will make the exercises easier to work through.
+I have a raspbian image that I can provide you if needed, but I won't keep them on github, as they exceed the recommended file size.  These images have all of the python libraries and vi settings that will make the exercises easier to work through.  Please contact me directly and I'll happily provide this to you.
